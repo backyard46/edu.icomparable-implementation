@@ -12,19 +12,19 @@ namespace InterfaceSample
     public enum Roles
     {
         /// <summary>
-        /// を保持するフィールド
+        /// オフェンス
         /// </summary>
         Offence,
         /// <summary>
-        /// を保持するフィールド
+        /// ディフェンス
         /// </summary>
         Defense,
         /// <summary>
-        /// を保持するフィールド
+        /// タンク
         /// </summary>
         Tank,
         /// <summary>
-        /// を保持するフィールド
+        /// サポート
         /// </summary>
         Support,
     }
